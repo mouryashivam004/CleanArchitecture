@@ -75,3 +75,7 @@ D:\Practice\API\CleanArchitecture\CleanArchitecture\CleanArch\CleanArch.MVC\obj\
 D:\Practice\API\CleanArchitecture\CleanArchitecture\CleanArch\CleanArch.MVC\obj\Debug\net6.0\CleanArch.MVC.pdb
 D:\Practice\API\CleanArchitecture\CleanArchitecture\CleanArch\CleanArch.MVC\obj\Debug\net6.0\CleanArch.MVC.genruntimeconfig.cache
 D:\Practice\API\CleanArchitecture\CleanArchitecture\CleanArch\CleanArch.MVC\obj\Debug\net6.0\ref\CleanArch.MVC.dll
+D:\Practice\API\CleanArchitecture\CleanArchitecture\CleanArch\CleanArch.MVC\bin\Debug\net6.0\CleanArch.Domain.dll
+D:\Practice\API\CleanArchitecture\CleanArchitecture\CleanArch\CleanArch.MVC\bin\Debug\net6.0\CleanArch.Infra.Data.dll
+D:\Practice\API\CleanArchitecture\CleanArchitecture\CleanArch\CleanArch.MVC\bin\Debug\net6.0\CleanArch.Infra.Data.pdb
+D:\Practice\API\CleanArchitecture\CleanArchitecture\CleanArch\CleanArch.MVC\bin\Debug\net6.0\CleanArch.Domain.pdb
