@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "DEpU2ULLhmIfdLq5ZZzmnaGur4Q59OZAT8KN6wZ4F45NFr4044DQDVylUD9e5dI3/LNSPx7iPk6tcjFYnn/baA==",
+  "dgSpecHash": "QYmGrHXNgVdl2i5aq139gRLVo01DgpA1Ir6MdtXGeg7gwFNq3UaL6qMj0X4FJMFhxjGr0LRep5a00WWtmfrVUg==",
   "success": true,
   "projectFilePath": "D:\\Practice\\API\\CleanArchitecture\\CleanArchitecture\\CleanArch\\CleanArch.MVC\\CleanArch.MVC.csproj",
   "expectedPackageFiles": [
@@ -23,8 +23,8 @@
     "C:\\Users\\dell\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\6.0.0\\microsoft.extensions.caching.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\dell\\.nuget\\packages\\microsoft.extensions.caching.memory\\6.0.1\\microsoft.extensions.caching.memory.6.0.1.nupkg.sha512",
     "C:\\Users\\dell\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
-    "C:\\Users\\dell\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.1\\microsoft.extensions.dependencyinjection.6.0.1.nupkg.sha512",
-    "C:\\Users\\dell\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\dell\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\dell\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\dell\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\6.0.0\\microsoft.extensions.fileproviders.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\dell\\.nuget\\packages\\microsoft.extensions.fileproviders.embedded\\6.0.20\\microsoft.extensions.fileproviders.embedded.6.0.20.nupkg.sha512",
     "C:\\Users\\dell\\.nuget\\packages\\microsoft.extensions.identity.core\\6.0.20\\microsoft.extensions.identity.core.6.0.20.nupkg.sha512",

@@ -79,3 +79,8 @@ D:\Practice\API\CleanArchitecture\CleanArchitecture\CleanArch\CleanArch.MVC\bin\
 D:\Practice\API\CleanArchitecture\CleanArchitecture\CleanArch\CleanArch.MVC\bin\Debug\net6.0\CleanArch.Infra.Data.dll
 D:\Practice\API\CleanArchitecture\CleanArchitecture\CleanArch\CleanArch.MVC\bin\Debug\net6.0\CleanArch.Infra.Data.pdb
 D:\Practice\API\CleanArchitecture\CleanArchitecture\CleanArch\CleanArch.MVC\bin\Debug\net6.0\CleanArch.Domain.pdb
+D:\Practice\API\CleanArchitecture\CleanArchitecture\CleanArch\CleanArch.MVC\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Practice\API\CleanArchitecture\CleanArchitecture\CleanArch\CleanArch.MVC\bin\Debug\net6.0\CleanArch.Application.dll
+D:\Practice\API\CleanArchitecture\CleanArchitecture\CleanArch\CleanArch.MVC\bin\Debug\net6.0\CleanArch.Infra.IoC.dll
+D:\Practice\API\CleanArchitecture\CleanArchitecture\CleanArch\CleanArch.MVC\bin\Debug\net6.0\CleanArch.Infra.IoC.pdb
+D:\Practice\API\CleanArchitecture\CleanArchitecture\CleanArch\CleanArch.MVC\bin\Debug\net6.0\CleanArch.Application.pdb
