@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "eq/kiwoiIIF6PL8B3bo5Wfq+s2KYSQkT6CVRPKtjbuHnQZi1gqEYhWoTD9XgTPKMdjF4KKawNjNJ8qDSXiJzSg==",
+  "success": true,
+  "projectFilePath": "D:\\Practice\\API\\CleanArchitecture\\CleanArchitecture\\CleanArch\\CleanArch.Infra.IoC\\CleanArch.Infra.IoC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dell\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\dell\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
